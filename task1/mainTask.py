@@ -11,4 +11,4 @@ def augmentedString(input):
 
 # 3. On a separate branch called "secretFeature", complete this new function that will take 2 numbers and a string and returns the result and augmented string from the above altogether
 def secretMethod(x, y, input):
-	pass
+	return str(addTwo(x, y)) + " " + augmentedString(input)

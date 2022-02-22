@@ -7,7 +7,7 @@ def addTwo(x, y):
 # 2. Complete the following function that returns out the input string along with a fixed string
 def augmentedString(input):
 	fixedString = " :)"
-	pass
+	return input + fixedString
 
 # 3. On a separate branch called "secretFeature", complete this new function that will take 2 numbers and a string and returns the result and augmented string from the above altogether
 def secretMethod(x, y, input):

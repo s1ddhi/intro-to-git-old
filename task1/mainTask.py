@@ -2,7 +2,7 @@
 
 # 1. Complete the following function that adds 2 numbers together
 def addTwo(x, y):
-	pass
+	return x + y
 
 # 2. Complete the following function that returns out the input string along with a fixed string
 def augmentedString(input):
